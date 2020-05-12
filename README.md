@@ -15,4 +15,4 @@ Ballz.py and The Battle of AGAR.py are probably the only good functioning ones o
 
 # Dates:
 Random plant generator.py  and  showcase.py  would have probably been made
-March, May, maybe early June of 2019.  All other projects were made from June - November 2019
+March, maybe early May of 2019.  All other projects were made from June - November 2019
